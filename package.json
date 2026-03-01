@@ -1,14 +1,14 @@
 {
+  "name": "binary_utf",
+  "private": true,
+  "type": "module",
   "scripts": {
-    "start": "snowpack dev",
-    "build": "snowpack build",
-    "test": "echo \"What is test?.\" && exit 1",
-    "format": "prettier --write \"src/**/*.js\"",
-    "lint": "prettier --check \"src/**/*.js\""
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "dependencies": {},
   "devDependencies": {
-    "prettier": "^2.0.5",
-    "snowpack": "^2.17.0"
+    "vite": "^5.4.8"
   }
 }

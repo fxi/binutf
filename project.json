@@ -1,0 +1,9 @@
+{
+  "name": "binary_utf",
+  "description": "Binary to UTF-16 character explorer",
+  "tags": ["tool", "unicode", "binary"],
+  "year_init": 2021,
+  "year_last": 2021,
+  "url": "https://fxi.io/binary_utf/",
+  "featured": false
+}
