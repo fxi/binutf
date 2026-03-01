@@ -1,6 +1,6 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/binary_utf/",
+  base: "/binutf/",
   publicDir: "static",
 });
